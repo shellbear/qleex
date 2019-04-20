@@ -1,0 +1,15 @@
+name: Qleex
+version: 0.1.0
+
+authors:
+  - Shellbear <shellbear@protonmail.com>
+
+dependencies:
+  radix:
+    github: luislavena/radix
+
+targets:
+  qleex:
+    main: src/qleex.cr
+
+crystal: 0.28.0
